@@ -181,6 +181,7 @@ In Home view, all the views button will be available. User will land on specific
 ## Finance View
 
 ![Finace.gif](https://github.com/dannytjose/Business_Insights_360/blob/main/Resources/Finance.png)
+
 ## Sales View
 
 ![Sales.gif](https://github.com/dannytjose/Business_Insights_360/blob/main/Resources/Sales.png)
@@ -191,11 +192,11 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Supply chain View
 
-![Supply chain.gif]((https://github.com/dannytjose/Business_Insights_360/blob/main/Resources/Supply_Chain.png)
+![Supply chain.gif](https://github.com/dannytjose/Business_Insights_360/blob/main/Resources/Supply_Chain.png)
 
 ## Executive View
 
-![Executive.gif]((https://github.com/dannytjose/Business_Insights_360/blob/main/Resources/Executive_View.png)
+![Executive.gif](https://github.com/dannytjose/Business_Insights_360/blob/main/Resources/Executive_View.png)
 
 
 
