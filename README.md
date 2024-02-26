@@ -160,7 +160,7 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
 
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
+<img src="https://github.com/dannytjose/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
 
 ### Dashboard designing
 
@@ -176,39 +176,32 @@ In Home view, all the views button will be available. User will land on specific
 - Marketing View
 - Supply chain View
 - Executive View
-- Products
 - Support
 
-## Overall Report
-
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
 
 ## Info Page
 
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
+![Info.gif](https://github.com/dannytjose/Business_Insights_360/blob/main/Resources/Home.png)
 
 ## Finance View
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finace.gif](https://github.com/dannytjose/Business_Insights_360/blob/main/Resources/Finance.png)
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales.gif](https://github.com/dannytjose/Business_Insights_360/blob/main/Resources/Sales.png)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing.gif](https://github.com/dannytjose/Business_Insights_360/blob/main/Resources/Marketing.png))
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply chain.gif]((https://github.com/dannytjose/Business_Insights_360/blob/main/Resources/Supply_Chain.png))
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive.gif]((https://github.com/dannytjose/Business_Insights_360/blob/main/Resources/Executive_View.png))
 
-## Products
-
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
 
 
 ## Project Outcome
