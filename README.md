@@ -36,7 +36,7 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - Setting up personal gateway to set up the auto refresh of data
 - PowerBi App creation
 - Collaboration, workspace, access permissions in PowerBi services
-- And more 😅
+- And more 
 
 ## GitHub 
 
@@ -209,8 +209,6 @@ In Home view, all the views button will be available. User will land on specific
 ## Products
 
 ![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
-
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
 
 
 ## Project Outcome
