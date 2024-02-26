@@ -192,15 +192,15 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/dannytjose/Business_Insights_360/blob/main/Resources/Marketing.png))
+![Marketing.gif](https://github.com/dannytjose/Business_Insights_360/blob/main/Resources/Marketing.png)
 
 ## Supply chain View
 
-![Supply chain.gif]((https://github.com/dannytjose/Business_Insights_360/blob/main/Resources/Supply_Chain.png))
+![Supply chain.gif]((https://github.com/dannytjose/Business_Insights_360/blob/main/Resources/Supply_Chain.png)
 
 ## Executive View
 
-![Executive.gif]((https://github.com/dannytjose/Business_Insights_360/blob/main/Resources/Executive_View.png))
+![Executive.gif]((https://github.com/dannytjose/Business_Insights_360/blob/main/Resources/Executive_View.png)
 
 
 
